@@ -1,5 +1,5 @@
 # 💫 About Me:
-🕸️ Web Developer.<br>🔭 Building various apps and website to serve community.<br>⌚ About to launch my latest open source project.<br>🧑‍🎓 Eager to learn new skills and technologies
+🕸️ Web Developer.<br>🔭 Building various apps prototypes and website to serve community.<br>⌚ About to launch my latest open source project.<br>🧑‍🎓 Eager to learn new skills and technologies
 
 
 ## 🌐 Socials:
